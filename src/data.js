@@ -14,7 +14,7 @@ function chillHop() {
         },
         {
             name:"105.3 The Fan Dallas",
-            artist: "Radio",
+            artist: "Stports Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
@@ -23,7 +23,7 @@ function chillHop() {
         },
         {
             name:"810 WHB",
-            artist: "Philanthrope, Parkbench Epiphany",
+            artist: "Sports Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
@@ -31,12 +31,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Murmuration",
-            artist: "Blue Wednesday, Shopany",
+            name:"1010 WINS",
+            artist: "News Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/bb0db71fd74f15627e9912ad2278c13cee72ac2d-1024x1024.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=7814",
+            audio: "https://prod-100-27-18-105.wostreaming.net/audacy-winsamaac-imc",
             active: false,
         },
         {
