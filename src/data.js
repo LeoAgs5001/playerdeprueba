@@ -22,12 +22,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Waybackwhen",
+            name:"810 WHB",
             artist: "Philanthrope, Parkbench Epiphany",
             cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=27502",
+            audio: "https://prod-54-173-108-123.wostreaming.net/unionbroadcasting-whbamaac-hlsc2.m3u8/",
             active: false,
         },
         {
