@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://prod-54-205-65-155.wostreaming.net/id3/1/0/b/79/7905598b4764389aa22c29cae35f9a5f-TSHLS-AAC-BR64SR32000C2HE0MP4_0.aac",
+            audio: "https://prod-54-205-65-155.wostreaming.net/audacy-krldfmaac-imc",
             active: false,
         },
         {
