@@ -4,8 +4,8 @@ function chillHop() {
     return [
 
         {
-            name:"Sunny in Saint Petersburg",
-            artist: "Saib",
+            name:"WEEI 93.7 FM",
+            artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Perspective",
-            artist: "fantompower",
+            name:"105.3 The Fan Dallas",
+            artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
+            audio: "https://prod-54-205-65-155.wostreaming.net/id3/1/0/b/79/7905598b4764389aa22c29cae35f9a5f-TSHLS-AAC-BR64SR32000C2HE0MP4_0.aac",
             active: false,
         },
         {
