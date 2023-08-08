@@ -72,7 +72,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://www.radio-australia.org/612-abc-brisbane",
+            audio: "https://live-radio01.mediahubaustralia.com/4LRW/mp3/",
             active: false,
         },
         {
@@ -81,7 +81,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2019/09/5dec57f342128aac26584502148c6415dce9a1e5-1024x1001.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=8046",
+            audio: "https://tunein.com/radio/ABC-Radio-Brisbane-612-s9797/",
             active: false,
         },
     ];
