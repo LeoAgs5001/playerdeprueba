@@ -54,7 +54,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2021/05/1245c0271290a3196328c0cf4aaa910cd873dfe7-1024x1024.jpg",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=19062",
+            audio: "https://27253.live.streamtheworld.com/ARN_GOLD1043AAC/HLS/72f4ecc5-ec1d-4742-b5b5-63b4c5bcafbb/0/playlist.m3u8",
             active: false,
         },
         {
