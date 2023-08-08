@@ -49,12 +49,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Sozu",
+            name:"97.3 KIIS Brisbane",
             artist: "mommy, Sleepy Fish",
             cover: "https://chillhop.com/wp-content/uploads/2021/05/1245c0271290a3196328c0cf4aaa910cd873dfe7-1024x1024.jpg",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://21423.live.streamtheworld.com/ARN_GOLD1043AAC/HLS/9e78e9a9-99e4-42a9-968f-ae475487d669/0/playlist.m3u8",
+            audio: "https://21413.live.streamtheworld.com/ARN_973FMAAC/HLS/849fac1e-c2ab-4d15-9c38-c8691854be35/0/playlist.m3u8",
             active: false,
         },
         {
