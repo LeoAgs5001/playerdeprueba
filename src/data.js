@@ -42,10 +42,10 @@ function chillHop() {
         {
             name:"Gold 104.3",
             artist: "Psalm Trees, Guillaume Muschalle",
-            cover: "https://ais-arn.streamguys1.com/au_004/playlist.m3u8",
+            cover: "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "https://ais-arn.streamguys1.com/au_004/playlist.m3u8",
+            audio: "https://21423.live.streamtheworld.com/ARN_GOLD1043AAC/HLS/9e78e9a9-99e4-42a9-968f-ae475487d669/0/playlist.m3u8",
             active: false,
         },
         {
