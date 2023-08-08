@@ -54,16 +54,16 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2021/05/1245c0271290a3196328c0cf4aaa910cd873dfe7-1024x1024.jpg",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://21413.live.streamtheworld.com/ARN_973FMAAC/HLS/849fac1e-c2ab-4d15-9c38-c8691854be35/0/playlist.m3u8",
+            audio: "https://21333.live.streamtheworld.com/ARN_973FMAAC.aac",
             active: false,
         },
         {
-            name:"Sleepover",
+            name:"Mix 94.5 Perth",
             artist: "Nymano, JK the Sage",
             cover: "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
-            audio: "https://21333.live.streamtheworld.com/ARN_973FMAAC.aac",
+            audio: "https://new.radiosolo.ru/au/6mix/icecast.audio",
             active: false,
         },
         {
@@ -72,7 +72,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=7985",
+            audio: "https://21333.live.streamtheworld.com/ARN_973FMAAC.aac",
             active: false,
         },
         {
