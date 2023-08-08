@@ -68,11 +68,11 @@ function chillHop() {
         },
         {
             name:"612 ABC Brisbane",
-            artist: "Sleepy Fish",
+            artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq_3295648.aac",
+            audio: "https://www.radio-australia.org/612-abc-brisbane",
             active: false,
         },
         {
