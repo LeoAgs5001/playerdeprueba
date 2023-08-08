@@ -40,12 +40,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Clocks Forward",
+            name:"Gold 104.3",
             artist: "Psalm Trees, Guillaume Muschalle",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/db956cc3e3bb2d3725d0ce3f9aaf7190671c9451-1024x1024.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=8094",
+            audio: "https://21423.live.streamtheworld.com/ARN_GOLD1043AAC/HLS/936a5a9b-a110-41d2-834a-410f441d6615/0/playlist.m3u8",
             active: false,
         },
         {
