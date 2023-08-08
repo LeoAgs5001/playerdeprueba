@@ -63,7 +63,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=10130",
+            audio: "https://21333.live.streamtheworld.com/ARN_973FMAAC.aac",
             active: false,
         },
         {
