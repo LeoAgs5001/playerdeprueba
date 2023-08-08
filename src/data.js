@@ -45,7 +45,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2020/07/db956cc3e3bb2d3725d0ce3f9aaf7190671c9451-1024x1024.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "https://21423.live.streamtheworld.com/ARN_GOLD1043AAC/HLS/936a5a9b-a110-41d2-834a-410f441d6615/0/playlist.m3u8",
+            audio: "https://ais-arn.streamguys1.com/au_004/playlist.m3u8",
             active: false,
         },
         {
