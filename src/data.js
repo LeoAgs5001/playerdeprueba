@@ -117,7 +117,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2019/09/5dec57f342128aac26584502148c6415dce9a1e5-1024x1001.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "https://s8.yesstreaming.net:17145/BrzGC_hq",
+            audio: "https://prod-54-174-238-177.amperwave.net/audacy-wqmgfmaac-imc",
             active: false,
         },
     ];
