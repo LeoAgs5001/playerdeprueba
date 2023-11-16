@@ -112,7 +112,7 @@ function chillHop() {
             active: false,
         },        
         {
-            name:"The Breeze 100.6",
+            name:"KBME 790 Am",
             artist: "Barnes Blvd.",
             cover: "https://chillhop.com/wp-content/uploads/2019/09/5dec57f342128aac26584502148c6415dce9a1e5-1024x1001.jpg",
             id: uuidv4(),
