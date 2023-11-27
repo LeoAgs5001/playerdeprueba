@@ -90,7 +90,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://tu.streamguys1.com/wadoam-icy",
+            audio: "https://tu.streamguys1.com/wadoam/playlist.m3u8",
             active: false,
         },        
         {
