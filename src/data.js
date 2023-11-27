@@ -85,12 +85,12 @@ function chillHop() {
             active: false,
         },        
         {
-            name:"WADO 1280 am",
+            name:"WADO 1280 am r",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "http://tu.streamguys1.com/wadoam-icy",
+            audio: "https://prod-34-145-52-8.wostreaming.net/univision-deportesaac-imc2",
             active: false,
         },        
         {
