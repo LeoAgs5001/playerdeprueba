@@ -85,7 +85,7 @@ function chillHop() {
             active: false,
         },        
         {
-            name:"WADO 1280 am",
+            name:"WADO 1280 am radio",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
