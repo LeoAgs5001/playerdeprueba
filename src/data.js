@@ -85,12 +85,12 @@ function chillHop() {
             active: false,
         },        
         {
-            name:"WADO 1280 am ro",
+            name:"WADO 1280 am ra",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://tu.streamguys1.com/wxnyfm-icy",
+            audio: "https://tu.streamguys1.com/wadoam-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
             active: false,
         },        
         {
