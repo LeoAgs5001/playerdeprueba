@@ -85,12 +85,12 @@ function chillHop() {
             active: false,
         },        
         {
-            name:"Fresh 92.7 Fm",
+            name:"WADO 1280",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/cd6ad456b39b442e4d39e346c5f778df969326e6-1024x1024.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
-            audio: "https://live.fresh927.com.au/freshaac",
+            audio: "https://tu.streamguys1.com/wadoam-icy",
             active: false,
         },        
         {
