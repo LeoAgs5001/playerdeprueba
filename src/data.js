@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"WEEI 93.7 FM",
+            name:"qmg",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://prod-44-202-137-138.wostreaming.net/audacy-weeifmaac-imc",
+            audio: "https://prod-54-175-170-232.amperwave.net/audacy-wqmgfmmp3-imc",
             active: true,
         },
         {
