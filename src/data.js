@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"wdas",
+            name:"wbs",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://stream.revma.ihrhls.com/zc1993?disc=theonestopradio.com",
+            audio: "https://ad-oom-cmg.streamguys1.com/atl750/atl750-tunein.mp3",
             active: true,
         },
         {
