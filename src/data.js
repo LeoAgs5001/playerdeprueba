@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"105.3 The Fan Dallas",
-            artist: "Stports Radio",
+            name:"wpgc",
+            artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://prod-54-205-65-155.wostreaming.net/audacy-krldfmaac-imc",
+            audio: "https://prod-44-212-13-239.amperwave.net/audacy-wpgcfmaac-imc?session-id=5b19ddac4aa264e074e1bb498a842048",
             active: false,
         },
         {
