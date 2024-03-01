@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"the game sfrw",
+            name:"wsb",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGMZFMAAC.aac",
+            audio: "https://cmg.streamguys1.com/atl750/atl750-sgplayer-aac?listenerid=4fa9d9e09e22c47463ba69e35bb9fba4&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1709302913821%3B",
             active: true,
         },
         {
