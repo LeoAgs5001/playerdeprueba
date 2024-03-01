@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"wind",
+            name:"the game sf",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://rtn.cdnstream1.com/2571_96.aac",
+            audio: "https://live.amperwave.net/manifest/audacy-kgmzfmaac-hlsc.m3u8",
             active: true,
         },
         {
