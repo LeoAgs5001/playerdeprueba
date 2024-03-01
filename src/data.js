@@ -13,7 +13,7 @@ function chillHop() {
             active: true,
         },
         {
-            name:"wpgc",
+            name:"wpgcv",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
