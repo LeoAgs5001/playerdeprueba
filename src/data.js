@@ -4,7 +4,7 @@ function chillHop() {
     return [
 
         {
-            name:"wsb",
+            name:"wsbx",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
