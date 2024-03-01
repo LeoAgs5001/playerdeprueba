@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"the game sfr",
+            name:"the game sfrw",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://prod-3-84-157-220.amperwave.net/audacy-kgmzfmaac-hlsc.m3u8/",
+            audio: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGMZFMAAC.aac",
             active: true,
         },
         {
