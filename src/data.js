@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"570 w",
+            name:"wip3",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://prod-3-83-141-248.amperwave.net/audacy-weeifmaac-imc?session-id=db5536747602f695d394076dc87fa172",
+            audio: "https://prod-18-212-50-214.amperwave.net/audacy-wipfmaac-hlsc.m3u8?apv=a2&dist=Audacy&source=webA2&a2_app_version=16.6.0&a2_session_id=d91d0a05-f69a-cbe8-b37c-024bd973633b&gpp=DBABrGA%7EBVQqAAAACWA.QA%7EBUoAAAJY.QA%7EBVoAABY%7EBVoAAFg.QA%7EBVKAAAWA%7EBVoAAAFg.QA&t_partner_ids=eyJhY3UtdWlkIjoiODUxODU5OTY5MDE2IiwiYW4tdWlkIjoiMTg4MTQ3MDEzMjYzNDA5Mzk5OSIsImRvdC11aWQiOiIwOWNjMjIwMzAwNWI2NDFiZDgwYjE3YTkiLCJ0cml0b24tdWlkIjoiY29va2llOmY2MjBhM2VkLTFmOTAtNDA4YS1iZTZhLTFlMjVhYmMwOTFjOCIsImFtYi11aWQiOiI3Nzc0NDY2MDYwMjA5NjY4ODE2IiwiYXctdWlkIjoiNmIxNWY2ZjBlOGI1MTBjZTc1YjY3ZTZjMWY0ZTA4OGUiLCJkYm0tdWlkIjoiQ0FFU0VKdzIxWkczMi00QXlXTGFpSDBIYnNFIiwiY3RvLXVpZCI6IjU0Yjk4NjM5LWM1MDctNDRiNS1iODliLTYwZjQ3Zjc3NGQyNi02NTUxNDY1Yy01NTUzIiwiYnN3LXVpZCI6IjNlYjQxMDg2LTJhNjYtNGMwYS05YjA0LTVjNDczMWVmNGIwYiIsImR5bi11aWQiOiIzMzA4Njg1ODU0MzY4OTg2MzQyIiwidHRkLXVpZCI6ImY5OGI5YWJkLTczMzUtNDlhYy04OTdjLTlmNGZlMTRkNzRlNiIsImVwcy11aWQiOiJBUUVMTWtSQm5kNGtMUUV6N1dNN0FRQTlyZ0UiLCJtbS11aWQiOiIzOTBjNjU1MS00Njc2LTQ1MDAtOTE0ZS02MWUzYjJmZWQwODQifQ&a_partner_ids=6b15f6f0e8b510ce75b67e6c1f4e088e&deviceid=cookie%3Af620a3ed-1f90-408a-be6a-1e25abc091c8&c_user_id=f8k%3A66c06ca5717dc8fe89228230702e9bdc&newMeta=true",
             active: true,
         },
         {
@@ -27,7 +27,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://ample.revma.ihrhls.com/zc189/53_a5ct5zuyldhw02/playlist.m3u8",
+            audio: "https://n12b-e2.revma.ihrhls.com/zc189/18_xgv088rbuxed02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjhq3v8UATy1X-c1aobvDhQ",
             active: false,
         },
         {
@@ -36,7 +36,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2020/07/bb0db71fd74f15627e9912ad2278c13cee72ac2d-1024x1024.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://prod-18-212-50-214.amperwave.net/audacy-wipfmaac-hlsc.m3u8",
+            audio: "https://live.amperwave.net/manifest/audacy-wipfmaac-imc",
             active: false,
         },
         {
