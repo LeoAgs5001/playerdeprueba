@@ -4,7 +4,7 @@ function chillHop() {
     return [
 
         {
-            name:"weei",
+            name:"570 w",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"97.1 the fan",
+            name:"570",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://oom-radiohio.streamguys1.com/cols/wbnsfm.mp3",
+            audio: "https://n35b-e2.revma.ihrhls.com/zc189/hls.m3u8",
             active: false,
         },
         {
@@ -27,25 +27,25 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://ample.revma.ihrhls.com/zc1701/24_mvnf0zdsblwk02/playlist.m3u8",
+            audio: "https://ample.revma.ihrhls.com/zc189/53_a5ct5zuyldhw02/playlist.m3u8",
             active: false,
         },
         {
-            name:"1010 WINS",
+            name:"wip 1",
             artist: "News Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/bb0db71fd74f15627e9912ad2278c13cee72ac2d-1024x1024.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://prod-100-27-18-105.wostreaming.net/audacy-winsamaac-imc",
+            audio: "https://prod-18-212-50-214.amperwave.net/audacy-wipfmaac-hlsc.m3u8",
             active: false,
         },
         {
-            name:"Gold 104.3",
+            name:"wip2",
             artist: "Psalm Trees, Guillaume Muschalle",
             cover: "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "https://21423.live.streamtheworld.com/ARN_GOLD1043AAC.aac",
+            audio: "https://prod-18-212-50-214.amperwave.net/audacy-wipfmaac-hlsc.m3u8/",
             active: false,
         },
         {
