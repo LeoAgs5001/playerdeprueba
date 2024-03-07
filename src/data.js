@@ -4,30 +4,30 @@ function chillHop() {
     return [
 
         {
-            name:"wsbx",
+            name:"weei",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://cmg.streamguys1.com/atl750/atl750-sgplayer-aac?listenerid=4fa9d9e09e22c47463ba69e35bb9fba4&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1709302913821%3B",
+            audio: "https://prod-3-83-141-248.amperwave.net/audacy-weeifmaac-imc?session-id=db5536747602f695d394076dc87fa172",
             active: true,
         },
         {
-            name:"wpgcv",
+            name:"97.1 the fan",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://prod-44-212-13-239.amperwave.net/audacy-wpgcfmaac-imc",
+            audio: "https://oom-radiohio.streamguys1.com/cols/wbnsfm.mp3",
             active: false,
         },
         {
-            name:"810 WHB",
+            name:"570 la sports",
             artist: "Sports Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://prod-54-173-108-123.wostreaming.net/unionbroadcasting-whbamaac-hlsc2.m3u8/",
+            audio: "https://ample.revma.ihrhls.com/zc1701/24_mvnf0zdsblwk02/playlist.m3u8",
             active: false,
         },
         {
