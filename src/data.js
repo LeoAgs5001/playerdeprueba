@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"radi 3aw",
+            name:"the game",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://16603.live.streamtheworld.com/3AWAAC.aac",
+            audio: "https://prod-184-72-70-15.amperwave.net/audacy-wzgcfmaac-imc",
             active: true,
         },
         {
