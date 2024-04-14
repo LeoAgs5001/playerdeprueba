@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"whb",
+            name:"WTAM 1100",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://live.amperwave.net/manifest/unionbroadcasting-whbamaac-ibc2",
+            audio: "https://stream.revma.ihrhls.com/zc1749",
             active: true,
         },
         {
