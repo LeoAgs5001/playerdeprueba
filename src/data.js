@@ -4,16 +4,16 @@ function chillHop() {
     return [
 
         {
-            name:"WTAM 1100",
+            name:"Kmox 1",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://stream.revma.ihrhls.com/zc1749",
+            audio: "https://live.amperwave.net/playlist/audacy-kmoxamaac-imc.m3u",
             active: true,
         },
         {
-            name:"ktnq",
+            name:"KMOX 2",
             artist: "Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
@@ -22,7 +22,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"2cc",
+            name:"KMOX 3",
             artist: "Sports Radio",
             cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
             id: uuidv4(),
@@ -31,16 +31,16 @@ function chillHop() {
             active: false,
         },
         {
-            name:"pure gold",
+            name:"610 KC 1",
             artist: "News Radio",
             cover: "https://chillhop.com/wp-content/uploads/2020/07/bb0db71fd74f15627e9912ad2278c13cee72ac2d-1024x1024.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://ais-arn.streamguys1.com/au_002_icy",
+            audio: "https://prod-34-227-143-133.amperwave.net/audacy-kcspamaac-hlsc.m3u8/",
             active: false,
         },
         {
-            name:"radio rock",
+            name:"610 KC 2",
             artist: "Psalm Trees, Guillaume Muschalle",
             cover: "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
             id: uuidv4(),
@@ -49,7 +49,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"totally",
+            name:"610 KC 3",
             artist: "mommy, Sleepy Fish",
             cover: "https://chillhop.com/wp-content/uploads/2021/05/1245c0271290a3196328c0cf4aaa910cd873dfe7-1024x1024.jpg",
             id: uuidv4(),
@@ -58,7 +58,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"one fm",
+            name:"610 KC 4",
             artist: "Nymano, JK the Sage",
             cover: "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
             id: uuidv4(),
