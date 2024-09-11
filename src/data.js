@@ -4,21 +4,21 @@ function chillHop() {
     return [
 
         {
-            name:"Kmox 1",
-            artist: "Radio",
-            cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
+            name:"KJFK New York",
+            artist: "USA Airports",
+            cover: "https://shorturl.at/ipzAT",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://s1-fmt2.liveatc.net/kjfk9_s?nocache=2024091121455757076",
             active: true,
         },
         {
-            name:"KMOX 2",
-            artist: "Radio",
-            cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
+            name:"KBOI Twr/App Idaho",
+            artist: "USA Airports",
+            cover: "https://shorturl.at/crEY7",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://s1-bos.liveatc.net/kjfk9_s?nocache=2024091122165315030",
+            audio: "https://s1-fmt2.liveatc.net/kbos_twr?nocache=2024091122304570160",
             active: false,
         },
         {
