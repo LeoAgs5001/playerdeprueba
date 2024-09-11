@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://chillhop.com/wp-content/uploads/2021/07/3b73a510169f14c4af83ac4016e809917412702b-1024x1024.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://live.amperwave.net/direct/audacy-kmoxamaac-imc",
+            audio: "https://s1-bos.liveatc.net/kjfk9_s?nocache=2024091122165315030",
             active: false,
         },
         {
