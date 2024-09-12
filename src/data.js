@@ -22,12 +22,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"KMOX 3",
-            artist: "Sports Radio",
-            cover: "https://chillhop.com/wp-content/uploads/2021/11/4c9682ee612a3b8ef51de286c49b5489408e9257-1024x1024.jpg",
+            name:"KLAX Tower South Los Angeles",
+            artist: "USA Airports",
+            cover: "https://shorturl.at/mqx12",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://17843.live.streamtheworld.com/2CCAAC_SC",
+            audio: "https://s1-bos.liveatc.net/klax_twr?nocache=2024091211152288695",
             active: false,
         },
         {
