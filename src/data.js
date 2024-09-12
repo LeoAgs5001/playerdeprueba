@@ -49,12 +49,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"LBSF Twr/App 2 Sofia Bulgaria",
+            name:"LTBA Gnd/Twr/App Istanbul Turkey",
             artist: "EUROPE Airports",
             cover: "https://shorturl.at/azDFL",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://s1-fmt2.liveatc.net/lbsf1?nocache=2024091212404067251",
+            audio: "https://s1-fmt2.liveatc.net/ltba_s?nocache=2024091212484649361",
             active: false,
         },
         {
