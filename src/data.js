@@ -31,12 +31,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"610 KC 1",
-            artist: "News Radio",
-            cover: "https://chillhop.com/wp-content/uploads/2020/07/bb0db71fd74f15627e9912ad2278c13cee72ac2d-1024x1024.jpg",
+            name:"KEWR Tower 1 New Jersey",
+            artist: "USA Airports",
+            cover: "https://shorturl.at/fmDH1",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://prod-34-227-143-133.amperwave.net/audacy-kcspamaac-hlsc.m3u8/",
+            audio: "https://s1-fmt2.liveatc.net/kewr_twr?nocache=2024091123124535421",
             active: false,
         },
         {
